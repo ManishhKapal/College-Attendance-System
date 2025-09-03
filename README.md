@@ -4,7 +4,7 @@ This is a note taking application built with Flutter for Android. It utilizes Fi
 
 ### Features
 
-* Create, edit, and delete notes.
+* Create, edit, and delete Notes.
 * View notes in a user-friendly list.
 * Secure storage of notes in Firebase Firestore.
 * (Optional) Implement functionalities like:
