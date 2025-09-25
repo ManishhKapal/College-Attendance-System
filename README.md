@@ -1,6 +1,6 @@
 ## Flutter Note App with Firebase Integration
 
-This is a note taking application built with Flutter for Android. It utilizes Firebase Firestore for secure and synchronized cloud storage of your notes.
+This is a note taking application built with Flutter for Android. It utilizes Firebase Firestore for secure and synchronized cloud storage of your Notes.
 
 ### Features
 
